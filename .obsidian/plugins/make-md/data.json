@@ -42,7 +42,8 @@
     "/",
     "//RUST",
     "//CC++",
-    "//C, C++"
+    "//C, C++",
+    "//MSA"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
